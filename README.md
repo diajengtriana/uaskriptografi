@@ -1,4 +1,4 @@
-# uaskriptografi
+# uas kriptografi
 # Nama : Diajeng triana kusumawardhani
 # Nim : 312110474
 # Kelas : TI.21.C5
